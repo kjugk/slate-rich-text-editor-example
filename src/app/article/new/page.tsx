@@ -1,9 +1,9 @@
-import { SlateArticleEditor } from "./SlateArticleEditor";
+import { ArticleForm } from "./ArticleForm";
 
 export default function NewArticlePage() {
   return (
     <div>
-      <SlateArticleEditor />
+      <ArticleForm />
     </div>
   );
 }
